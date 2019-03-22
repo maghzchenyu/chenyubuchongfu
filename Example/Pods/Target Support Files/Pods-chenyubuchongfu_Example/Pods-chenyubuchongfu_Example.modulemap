@@ -1,0 +1,6 @@
+framework module Pods_chenyubuchongfu_Example {
+  umbrella header "Pods-chenyubuchongfu_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
